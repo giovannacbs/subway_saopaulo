@@ -37,7 +37,7 @@ The visual narrative investigates:
 
 ## 👤 Author
 
-Project made for the **Lede Program** by [Giovanna Serafim](https://github.com/gserafim)
+Project made for the **Lede Program** by [Giovanna Serafim](https://github.com/giovannacbs)
 
 ---
 
